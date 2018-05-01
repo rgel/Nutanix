@@ -1,4 +1,4 @@
-#![nutanix_powershell_512x512](https://user-images.githubusercontent.com/6964549/39462720-19304898-4d1c-11e8-928b-3fcd0d3e2b9f.png)Nutanix PowerShell Repo
+# ![nutanix_powershell_512x512](https://user-images.githubusercontent.com/6964549/39462720-19304898-4d1c-11e8-928b-3fcd0d3e2b9f.png)Nutanix PowerShell Repo
 
 ##
 ### MODULES
