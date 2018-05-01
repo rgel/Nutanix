@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Configuration>
+	<ViewDefinitions>
+    <!-- *****************
+    Power-NTNX_NutanixTask
+    ****************** -->
+		<View>
+			<Name>Power-NTNX_NutanixTask</Name>
+			<ViewSelectedBy><TypeName>NutanixTask</TypeName></ViewSelectedBy>
+			<TableControl>
+        <TableHeaders>
+					<TableColumnHeader><Label>Task</Label><Width>20</Width><Alignment>Left</Alignment></TableColumnHeader>
+          <TableColumnHeader><Label>Type</Label><Width>30</Width><Alignment>Left</Alignment></TableColumnHeader>
+					<TableColumnHeader><Label>Started</Label><Width>21</Width><Alignment>Left</Alignment></TableColumnHeader>
+					<TableColumnHeader><Label>Finished</Label><Width>21</Width><Alignment>Left</Alignment></TableColumnHeader>
+          <TableColumnHeader><Label>Status</Label><Width>10</Width><Alignment>Left</Alignment></TableColumnHeader>
+          <TableColumnHeader><Label>Info</Label><Width>35</Width><Alignment>Left</Alignment></TableColumnHeader>
+				</TableHeaders>
+				<TableRowEntries>
+					<TableRowEntry>
+						<TableColumnItems>
+							<TableColumnItem><PropertyName>Task</PropertyName></TableColumnItem>
+							<TableColumnItem><PropertyName>Type</PropertyName></TableColumnItem>
+              <TableColumnItem><PropertyName>Started</PropertyName></TableColumnItem>
+              <TableColumnItem><PropertyName>Finished</PropertyName></TableColumnItem>
+              <TableColumnItem><PropertyName>Status</PropertyName></TableColumnItem>
+              <TableColumnItem><PropertyName>Info</PropertyName></TableColumnItem>
+						</TableColumnItems>
+					</TableRowEntry>
+				</TableRowEntries>
+			</TableControl>
+		</View>
+
+	</ViewDefinitions>
+</Configuration>
