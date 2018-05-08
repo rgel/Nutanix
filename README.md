@@ -3,7 +3,7 @@
 ##
 ### MODULES
 
-### [<ins>Power-NTNX</ins>](https://github.com/rgel/Nutanix/tree/master/Power-NTNX) Nutanix PowerShell Extensions
+### [<ins>Power-NTNX</ins>](https://github.com/rgel/Nutanix/tree/master/Power-NTNX) NUTANIX PowerShell Extensions
 
 <ins>Requirements:</ins> [NutanixCmdlets](https://portal.nutanix.com/#/page/docs/details?targetId=API_Ref-Acr_v4_6:man_ps_cmdlets_install_r.html).
 
@@ -23,6 +23,8 @@ To see the commands imported, type `Get-Command -Module Power-NTNX`.
 
 For help on each individual cmdlet or function, run `Get-Help CmdletName -Full [-Online][-Examples]`.
 
+To start using the functions, connect to your Cluster by `Connect-NTNXCluster` cmdlet.
+
 |No|Function|Description|
 |----|----|----|
-|1|[<b>Wait-NTNXTask</b>](https://ps1code.com)|Wait for Nutanix task with Progress bar|
+|1|[<b>Wait-NTNXTask</b>](https://ps1code.com/2018/05/08/monitor-nutanix-task-powershell)|Wait for any Nutanix task and its subtasks with Progress bar|
