@@ -98,7 +98,7 @@ PrivateData = @{
         # LicenseUri = ''
 
         # A URL to the main website for this project.
-        ProjectUri = 'https://www.ps1code.com/category/nutanix-posh/power-ntnx'
+        ProjectUri = 'https://ps1code.com/category/powershell/nutanix/power-ntnx/'
 
         # A URL to an icon representing this module.
         # IconUri = ''
