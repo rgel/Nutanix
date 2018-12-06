@@ -1,4 +1,4 @@
-# ![nutanix_powershell_512x512](https://user-images.githubusercontent.com/6964549/39462720-19304898-4d1c-11e8-928b-3fcd0d3e2b9f.png)Nutanix PowerShell Repo
+# ![power-ntnx-256](https://user-images.githubusercontent.com/6964549/49570432-4aeb7180-f93f-11e8-8db6-2bbfb16fef1f.png)Nutanix PowerShell Repo
 
 ##
 ### MODULES
@@ -25,6 +25,6 @@ For help on each individual cmdlet or function, run `Get-Help CmdletName -Full [
 
 To start using the functions, connect to your Cluster by `Connect-NTNXCluster` cmdlet.
 
-|No|Function|Description|
+|No|Cmdlet|Description|
 |----|----|----|
 |1|[<b>Wait-NTNXTask</b>](https://ps1code.com/2018/05/08/monitor-nutanix-task-powershell)|Wait for any Nutanix task and its subtasks with Progress bar|
