@@ -1,6 +1,5 @@
 # ![power-ntnx-256](https://user-images.githubusercontent.com/6964549/49570432-4aeb7180-f93f-11e8-8db6-2bbfb16fef1f.png)Nutanix PowerShell Repo
 
-##
 ### MODULES
 
 ### [<ins>Power-NTNX</ins>](https://github.com/rgel/Nutanix/tree/master/Power-NTNX) NUTANIX PowerShell Extensions
